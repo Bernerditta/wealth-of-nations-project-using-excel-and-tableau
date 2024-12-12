@@ -10,7 +10,9 @@ Ever wondered how the wealth of nations stacks up? 💰 In this project, I dove 
 ## 🛠️ Tools and Skills  
 ### Excel Mastery: 💡  
 - **Data Cleaning**: Say goodbye to messy data! 🧽 Cleaned up inconsistencies, handled missing values, and structured the dataset like a pro.  
-- **Data Manipulation**: Summarized key metrics using formulas, pivot tables, and a sprinkle of spreadsheet magic! ✨  
+- **Data Manipulation**: Summarized key metrics using formulas, pivot tables, and a sprinkle of spreadsheet magic! ✨ ![Dashboard Preview
+![Excel file](https://via.placeholder.com/800x400?text=Insert+Dashboard+Image+Here)  
+
 
 ### Tableau Wizardry: 🧙‍♂️  
 - **Visualizations**: Built 4 engaging visuals: bar charts 📊, line graphs 📈, and maps 🗺️ that reveal fascinating insights.  
