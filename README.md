@@ -3,7 +3,9 @@
 ## 🎯 Project Overview  
 Ever wondered how the wealth of nations stacks up? 💰 In this project, I dove into the *Wealth of Nations* dataset, cleaned it up 🧹, and turned raw numbers into insightful stories through stunning visualizations 📊. Using Microsoft Excel for data wrangling and Tableau for visual storytelling, I crafted an interactive dashboard that makes exploring economic data *fun and accessible*!  
 
-![Dashboard Preview](https://via.placeholder.com/800x400?text=Insert+Dashboard+Image+Here)  
+![Dashboard Preview](![Screenshot 2024-12-20 000621](https://github.com/user-attachments/assets/a95792d2-5b8b-4506-b264-01ab7c253889)
+![Screenshot 2024-12-20 000601](https://github.com/user-attachments/assets/3e3dd5d5-c737-4760-bc57-17f4e22d21ed)
+)  
 
 ---
 
@@ -30,12 +32,13 @@ Ever wondered how the wealth of nations stacks up? 💰 In this project, I dove 
 - 🌎 **Regional Comparisons**: Dive into wealth disparities and population insights.  
 - 🔍 **Key Indicators**: Uncover what drives wealth in different nations.  
 
-![Sample Visualization](https://via.placeholder.com/800x400?text=Insert+Visualization+Image+Here)  
+![Sample Visualization](![Screenshot 2024-12-20 000843](https://github.com/user-attachments/assets/b6743608-285c-4d38-bcb5-6e7101d92335)
+)  
 
 ---
 
 ## 🚀 How to Explore  
-1. 🖱️ **[Click here to view the Tableau Dashboard](#)**  
+1. 🖱️ **[Click here to view the Tableau Dashboard](https://public.tableau.com/views/WealthofNationsExcelTableau/WealthofNationsExcelTableau?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**  
 2. 📂 Check out the Excel file and raw data in this repository for behind-the-scenes action.  
 
 ---
